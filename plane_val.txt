@@ -1,0 +1,200 @@
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\da58075ab2e6ee2a9926c4e6f2e98cb6.jpg 393,252,517,324,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\da5ab910df07a46af2e07e46d4796da5.jpg 668,356,1063,476,8
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\da6b06693f7086022e26b0be8db4064c.jpg 750,500,1499,999,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\da9fb2e0c5a9d48082460b6348ff5fb6.jpg 2557,450,421,115,1 1445,496,541,136,1 750,948,1177,349,1 3678,811,835,294,1 3224,654,782,215,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\daadbc39aa4ee1bf0ae95bd6fc482433.jpg 359,194,464,228,6 873,589,505,330,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\dac7998c96f8f36cfb0dede8e13052aa.jpg 1570,1152,300,369,2
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\dae2b250fc8262753b2d347c720949b3.jpg 1052,625,1557,665,8
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\daea0ddf5dc5376f4a6fdd8fd11d304c.jpg 512,329,1023,499,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\daf46686b0250ec2e3dcc26d2a110d95.jpg 711,253,255,62,5
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\db08f45ff248c642ca2527b94bb6a525.jpg 614,1128,653,211,8 291,772,361,203,8 515,492,315,174,8 712,298,289,152,8
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\db518fc51cd783ab7fde56a1fd2d1564.jpg 2136,632,206,202,0 1510,622,205,101,0 886,604,207,101,0 867,860,209,104,0 854,1124,214,105,0
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\db65762f3f3b8afda183f49209fe1957.jpg 776,227,189,98,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\dba9de6093cc754f3577ba65ed651146.jpg 246,141,246,141,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\dc3cd95cb9cbcf3731cda58980b21942.jpg 496,676,175,335,7 157,576,175,325,7
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\dc70e88d5cab5bb085e9997c650107bd.jpg 717,325,150,239,8
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\dc7418c4b49fca1648d4d63d3785f271.jpg 608,404,137,46,6 1304,370,89,36,6 1738,358,53,24,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\dcb8328c3ea2fd010e071368fda0d7e1.jpg 555,360,645,605,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\dcc93800ebd5110abe180d2041ebd04d.jpg 1353,635,1586,349,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\dcf0dcbfe9bf5fa3df17a782fb2dc00c.jpg 600,441,1199,718,0
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\dd5912c6a6fc5c90a0e7272e723a449d.jpg 588,105,156,66,5
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\dd68429d2f97adbd4f325fb1b9160432.jpg 542,191,915,151,2
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\dd9de2f34fa0bfc859fdb0a0595ac18d.jpg 300,546,599,572,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\de21380131105284fbb94998dbc0b8b8.jpg 1028,623,28,34,8
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\dec513081838251c0a0ae65b273fe592.jpg 2509,1417,2332,856,8
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\df4a1c6880aea2e399ea8367a78058ce.jpg 228,380,324,500,7 901,308,365,511,7
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\df7f3061133b071c018351d9e0124168.jpg 305,222,441,96,2
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\dfc163e69b037bfcea66e6a544dc610e.jpg 2497,1121,538,159,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\dff8780d30cc2bfd9b0d05e5da105a57.jpg 616,962,773,590,5 295,421,493,529,4 773,291,491,527,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e018e6f5a3581dfa3ad67ef9c4ed7094.jpg 2127,888,1465,434,8
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e027a2d3b5682a2a1bbb292a9c34cecc.jpg 1463,764,451,113,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e03bf75ae798616ca515d2d862682a1b.jpg 314,684,283,24,2
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e06559db2f20b00d9e6354c81bc1f3f6.jpg 2011,1338,485,321,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e07eca0bdd5405ad983ca0673b2d9108.jpg 631,498,1153,269,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e09805b11b0bc491bdb35eea7d028ce5.jpg 697,480,1331,503,7
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e0b823b15eec32b382893a0c5772c182.jpg 754,1378,446,263,7 1720,341,437,260,7
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e110d56d54f85cc8d3a25affc005816b.jpg 1393,982,561,106,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e121598b343fc7699e28de8e66f16506.jpg 1010,503,84,22,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e12c8f90c8ed2b0822ec5835df8ae1da.jpg 511,59,318,60,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e133733045cff868e46cce0657e86ce0.jpg 558,439,201,68,0
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e18d03cc25060fb82286c7ed059d7a8f.jpg 1070,660,557,278,2
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e1bfecd0e4388f44e071c0dbf5d5eb6c.jpg 642,960,164,73,2
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e208f9f56b490d118d61652bc55503cc.jpg 701,298,889,470,8
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e20a19b0bcfded22626b2aae02dabda5.jpg 992,614,1686,399,7
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e239ec257cf39a235b6e2578db32e668.jpg 434,392,145,160,8
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e27b31f63c9ac612ac84c17280f8050c.jpg 2400,1347,388,79,4 2443,1403,433,116,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e2b39652ad8f18e94e90fed5fe6c312c.jpg 1988,1163,2782,2325,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e2db0f002f8f9759945bccc7a5298e0e.jpg 3139,2358,278,60,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e2fb56fb2a586b0e3ba99651aa6504ab.jpg 463,252,253,152,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e32b138d5ca408ff316bc2c08da57157.jpg 1481,836,298,68,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e36d45b733d1d9b7404c3dc8e329bf06.jpg 841,854,1079,403,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e377dc8b82c38744de3915a369082237.jpg 871,622,1221,454,3
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e3819a78bd92e9231c544a7b2cfcc074.jpg 2408,943,659,246,0
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e383546f94aa51f5af403dcca39ebfe5.jpg 449,320,142,59,5
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e3c06f975f9dd26b2dbb128488d24270.jpg 766,639,393,172,7 1200,357,840,219,7
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e3e264bd3e67bb6f170be52162d40053.jpg 1716,856,69,17,1 1409,916,40,10,1 286,696,116,26,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e46b3abdbd5be57455a4bae947dbe236.jpg 430,419,859,259,4 598,309,780,208,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e49f65d5925d97c8c12ae43cae94bdd4.jpg 907,722,585,283,8
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e4eda3f21179b7103515c9d11326dc5b.jpg 368,313,620,400,5
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e582ac2ff2f1f549b82ee9b4e5db7cb0.jpg 1676,642,79,98,6 891,1104,79,98,6 308,550,79,100,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e5909ea4e2baeab6dd9b0c6d67c22a8d.jpg 341,390,680,283,8 434,234,506,210,8 506,135,417,170,8 555,68,343,135,8
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e5d4ef3788caf3c96bce7a87106a05f0.jpg 868,342,462,162,7 429,360,276,96,7 271,366,208,75,7 154,371,139,60,7 81,375,105,47,7
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e60a81cd7819f5e0cb177127b1a91f97.jpg 2005,1192,3377,1237,3
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e62652fbedf0f18d75c5c6f19ecf7f4c.jpg 1017,554,1573,397,5 987,962,1803,464,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e639a5932152b28fe60c73575856553e.jpg 539,538,591,288,7 1466,431,546,254,7
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e69ce473852ac940b1a822e0fa5da268.jpg 960,710,472,112,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e6b732c9c19511ec655019b7c48a3ace.jpg 1732,995,1513,1271,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e711bf8026c3c407903245da80dead12.jpg 614,838,817,378,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e73b063c465abc76a16dc3f12c02c214.jpg 315,407,534,147,7 1138,846,478,112,7 1684,1095,428,94,7 1206,164,600,169,7
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e7776d8f953e1073807a949239803770.jpg 476,298,950,406,7
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e7bdf1cbd57929308d17b2701191d616.jpg 656,384,1027,616,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e830e1b3ff375bc14a2aaeb6251dee9e.jpg 1390,868,1376,849,7
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e8847910420ece97dc7260d130cf7542.jpg 1044,1180,404,122,5 544,1421,892,286,0
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e89743588cf5bc275a639b5cb954f12a.jpg 426,564,789,177,4 737,413,560,127,4 897,329,453,99,4 1017,253,370,83,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e8a9e9bcbad61da15758caf9227c3079.jpg 2232,1477,355,565,0
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e8c1d1a95dd56772455c2809aa3d0afa.jpg 1091,1286,257,86,6 1415,1109,261,89,6 1684,980,263,92,6 1996,802,269,94,6 2397,942,266,93,6 2751,1071,264,88,6 3061,1212,261,89,6 2490,1576,211,72,6 2455,1391,215,73,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e8c6c5b4097e95a15029012378e3cbd7.jpg 2364,1429,731,316,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e8f07ecff8c18d74339f48ebecc4a6d3.jpg 772,465,90,29,1 509,264,600,190,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e8f9ac243681f3777b41451faadaf1ab.jpg 596,386,1180,271,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e924ee9cb3ee1843d7729e5c5725c402.jpg 1043,678,280,187,2
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e9405e03f81d84b9af6ec69a3498a128.jpg 281,233,488,444,6 656,629,494,992,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\e98307956fcfd8999bf30ac94939a373.jpg 1005,534,1828,849,5
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\ea1bdc95f220f321249a6b0d287904c2.jpg 1732,1535,870,359,3
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\ea21390662b72b5f3a43912a49da8649.jpg 1239,1280,2476,2207,0
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\ea6bb3ace2d3f5238ac7f3578442f487.jpg 424,712,625,93,2
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\ea73dbe60eb15922ba89496f21855101.jpg 633,456,1192,540,7
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\eaa5de81f1070167cf79a6e3339e67fb.jpg 642,398,1171,390,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\eac3e9652b30c8ccc0b6d21f4285e755.jpg 2091,1313,955,507,8
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\eaca57af350ae0e45224a1b789c38bb4.jpg 1931,538,231,103,0 1937,814,226,110,0 1940,1089,231,110,0 776,780,260,186,0 424,957,227,109,0
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\eb66addfaaa9f02e7b13b2759575a01d.jpg 767,634,1116,416,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\ec158b0994fc7167a942ddeb55782afc.jpg 275,224,125,164,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\ec741e70ab08f6544848632c3be09c72.jpg 310,454,443,146,4 876,452,436,158,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\ec75d7f7807d092c94fa3112142a09f8.jpg 428,393,505,273,8
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\ec7d9999fc1f2d9bd3437063095582b4.jpg 1505,626,1586,695,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\ec8c0c5d6a2d8b5b19f7bd66498e09e1.jpg 1834,1066,1314,362,0
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\ec93d9dac4f62ab5575c574190e2c741.jpg 422,466,255,284,5
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\ec955d0b3da037b69330cf35f6669858.jpg 625,390,241,59,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\ec9753f26dd8d3e45a96405ff4103452.jpg 615,171,669,340,3
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\ecd30f485a979134e01b202144c62bb1.jpg 470,321,820,341,0
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\ece3ce97061f6aa29e9d391c4ff11d5f.jpg 858,450,859,308,3 537,353,895,323,3
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\ecf8f54b638d3c76a1ceb3bc3c4c7c7a.jpg 1983,966,338,98,5
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\ed30f9c9a4c5f14470da59091dd3fe23.jpg 2695,1074,1146,417,7 716,1253,1163,368,7
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\ed341b4869b9a28787225c237b0ad9ae.jpg 1082,2447,1886,460,7 1330,1820,1428,305,7 1537,1575,1168,242,7 1290,1283,940,194,7
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\ed7d417ca8934561c36a0e0b21e2c3f8.jpg 1039,320,73,22,2
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\ed87bfdcc458e9d1107ef549890e7289.jpg 1547,1626,1490,866,2
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\edc45868cd25da67f12e4314bdc543e4.jpg 2017,1179,1096,2325,2
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\ee350c61a77a1da67d76a47b561966b7.jpg 524,765,866,1389,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\ee403937f68cc8e22337975ad0005c15.jpg 934,375,1053,422,8
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\ee588de287cb6c2ceaebe4c534c1ef05.jpg 398,583,558,225,4 1235,567,581,236,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\ef1516a3cf919669220f3283835fc2b5.jpg 656,797,686,261,7
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\ef7a575b12659fe85ed8b8a6a7bbc6dc.jpg 2003,1285,1034,474,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\efa3d133b33bc9d4325c1e09640385f2.jpg 1980,1612,3958,1690,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\efb3d242d60a7116eaa184df52329a45.jpg 2489,1207,526,428,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\efc5bd5cdee6e5e449724b80e8d05164.jpg 2491,1561,2477,1617,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\efca911b645363085bed35b107794842.jpg 1531,225,326,197,3 1512,484,559,273,3
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\efcfde6a89b318da02d6d6db920efa31.jpg 745,483,187,264,8
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\efe34ef74ba73670efeb21c6512c49c4.jpg 813,653,1574,433,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f00f2a14ad2661d4d3f7a2d2dffa719c.jpg 792,359,456,129,0
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f028462528471182dc7a3772dd34409a.jpg 1992,1265,2841,987,8 2377,927,2748,772,8
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f04d6305b6c87290bb03f100126d1b8f.jpg 580,893,488,1651,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f082f96318f26785acacbec437fe6c24.jpg 2385,1669,1060,2365,0
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f0cf3d3336c51b414564b7cbf91623fd.jpg 621,300,574,170,2
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f0db7c0ce9a8e8f65684db649fddb2a5.jpg 1416,902,489,414,7 937,415,766,387,7
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f151d4116a34aba0408e6a3aef26a3e3.jpg 480,245,959,283,2
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f15ccd7870a00a6975fd8ec0032518b1.jpg 631,439,1067,302,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f17781b98e23da44ce8487d643f31a7c.jpg 1675,1833,3003,971,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f18a14362fb4e6357037228414c2dd56.jpg 361,556,494,356,3
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f190931ba0e63f224327c38912c6d69b.jpg 3242,1131,725,308,6 1970,1134,724,296,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f1b279d751021ca1d4b489a383c7dea1.jpg 1944,1334,2848,1203,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f1ec6ced87d5ce08aacb9216ad12b519.jpg 2082,1108,4163,1793,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f1f3db5a7e145e31513917bc98bebd5c.jpg 753,587,341,136,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f23f302dc71feba6a7ca84aedcd65dcb.jpg 1087,1438,658,174,5
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f27b77dd91b01bc666b797d11e3edc4e.jpg 1288,716,1208,184,2
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f354d2924bf291d7617a29bef906699f.jpg 2503,1546,702,921,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f370fbd635b8f04c778b9268ea1af66b.jpg 814,651,523,163,8 1311,764,514,152,8
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f3a57c91dee002f3c9672c67d7729872.jpg 956,197,655,393,3
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f44c672cfa9f8f7636dfcc81886e9065.jpg 946,805,488,212,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f451bbde253b78b4b70743b04ab2dfa9.jpg 949,598,857,348,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f4716f26829839c512d87e700d831eaa.jpg 1024,823,2047,1457,5
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f4e6c173e7b009a7c2e50ce1935fa7f7.jpg 326,466,466,113,4 648,160,752,241,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f4feb44cfea7fdcdbc3e6c9372320bea.jpg 331,217,419,238,7
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f5056c57636faff5dcce153431f3ef85.jpg 621,930,743,265,5
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f50d6e74c84e88bb7f62599f95535476.jpg 964,553,1814,673,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f51b4f8c27775fe7e3ab4f163143465d.jpg 400,298,799,304,2
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f521578394658caa6e8723067dc5ae3e.jpg 251,815,193,138,4 459,669,196,138,4 647,523,199,138,4 848,386,201,147,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f54b622174f007316768cfdd22a30639.jpg 902,439,1705,730,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f55d20ea9468d336a97ec3e2e590b41e.jpg 393,341,135,174,7 526,373,140,173,7
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f5c0a334f75cbb63bba86eb3222a43b5.jpg 527,282,947,367,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f5c9daf55818c17de2e8999682108eab.jpg 629,282,342,143,4 214,265,379,156,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f5cf6dfd188d71191d2d8e2975e45ecb.jpg 533,427,935,340,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f5d25f33689e16803b1d9975f4387873.jpg 2014,1599,502,196,0
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f5ddd3d5576e1c361c69f7e7e9fc6ddc.jpg 945,497,245,82,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f5e6007d2207a0f932ae51bb7a9e3e94.jpg 184,420,291,51,2
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f5f01d44ecd56b5b3253eb35c266870e.jpg 94,976,130,69,5 189,854,131,71,5 396,931,130,69,5 922,884,122,69,5 1161,892,113,65,5 1273,862,116,71,5 1500,493,124,82,5 1398,650,121,77,5 1217,367,130,87,5 1058,560,130,76,5 1019,685,120,76,5 400,649,131,77,5 607,718,130,75,5 635,574,132,73,5 462,503,135,80,5 506,270,138,92,5 590,131,143,92,5 758,374,131,84,5 794,213,137,92,5
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f5f652fb7e6b301173918c7e55cb5734.jpg 342,351,643,258,3 535,378,494,215,3
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f612a3684f5775b0c6ba643295a327cd.jpg 459,124,282,161,5
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f6230df97600c1a1e3c63d72900af19f.jpg 926,569,569,370,8
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f643848baf804f87bcf848af082be805.jpg 574,578,951,266,8 1345,717,933,277,8
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f64c6607e6ea272172ce4456a5814800.jpg 1472,596,146,265,5
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f65c1cdc5597c27fb9158d8254863000.jpg 310,524,367,86,1 266,519,419,98,1 1008,288,202,51,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f69cf468fc7e3ad9a6c357398e25acba.jpg 917,123,73,23,2
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f6aa938d3736a04d33264ae5b0f94399.jpg 1026,349,340,132,8 605,399,223,137,8 186,231,77,124,8
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f6c6d614cee07a4b3e6c98df5b53ee06.jpg 1564,1072,1306,397,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f6e891b393c20d89417d8c7ff1e0ec6c.jpg 500,327,999,485,2
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f700711b0ab8876bea337453639c9530.jpg 1682,596,719,275,6 511,592,344,157,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f71bae3d20ed32121d8c6a740993648f.jpg 2289,1299,1154,1125,6 846,754,1182,1158,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f73f0893d11b3332526446afb4eab7e7.jpg 2213,1700,779,366,3
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f7677e272036aafc7d5b7f5e5f7ced66.jpg 954,582,1443,680,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f7680d3bef8b360568b8567b298d0ad8.jpg 477,584,953,408,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f775965fef62fc862be7adfd5ac95f56.jpg 2374,631,623,213,8
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f7794fc3856dac21fe9a22860ff264cf.jpg 328,303,335,132,6 579,363,1102,428,6
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f7924f6ddd5f3e98ccd8255c10defff5.jpg 921,1770,782,309,3 3032,1463,747,318,3
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f7a09e86afa8afd106d2d8366f31f948.jpg 784,743,161,355,5
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f7b9c73b236ac979e6cb819aeef63980.jpg 320,642,325,79,2 1303,633,241,52,2
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f7c62a286033fb56e4bad39f7af1ea99.jpg 897,133,153,50,1 801,142,197,68,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f7f8104f5a6812572e8518cd01f62725.jpg 640,328,1279,655,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f8222d8760fe9b6a2d0493480a9615a9.jpg 1021,317,80,28,4 1136,300,78,28,4 1222,322,77,29,4 1322,334,77,27,4 1103,1590,1362,540,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f831c685b47deaa037aa6afaf3a1b605.jpg 384,418,624,111,2
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f8bfcd1fd66e571360a5b9473cf520ad.jpg 776,443,1256,572,5
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f8c63c387412c6213a7bb4119256f8fc.jpg 1696,772,456,292,2 385,871,458,45,2
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f8df73dc7e98632602a0e905ac906beb.jpg 590,855,1179,363,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f9104d55c88e3edd64b9c49d45c0fd31.jpg 1237,798,1038,544,8
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f924e7f4b8412cb6a30bb0f5ae2dee49.jpg 2222,1762,2483,519,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f9705db10d7ddf6d289584c25f2ae249.jpg 784,319,108,55,2
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f97998655419edd119557c4c4aba7056.jpg 1452,2099,121,215,2
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\f98888bb14478fa9fe37b40f8ca70a34.jpg 723,99,45,28,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\fa2f9e836af031bf6c39e9d5a29a350e.jpg 2180,2385,1754,1039,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\fa3a5eb7358092ac42c6f73da6631a43.jpg 321,268,414,105,1 301,212,190,55,8 487,209,235,68,8 765,199,316,88,8
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\fa8d03460825f6103f860a487ecda11c.jpg 707,129,585,236,2
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\faca834a15cf8565c8aefba266e2832e.jpg 522,213,389,237,7
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\fad20f6a1e292b0a46d596a782e8c04e.jpg 2902,912,4126,1822,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\fad51553fa5583cbf494ebf05f8ad000.jpg 1433,519,784,448,8 511,670,866,445,8
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\faf4a19dec38ac0e361e94ad625b1351.jpg 375,159,698,271,7
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\fb02050f12bfcb5b7e58201e31d44027.jpg 540,532,1079,1063,4
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\fb2adc37fb645e07d4cb3e303b2cbea4.jpg 430,183,244,131,5
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\fb353b04befe7db8c11db9a4e20db377.jpg 614,401,93,83,2
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\fba9882d5513f32bc7f8ea32634aa9d5.jpg 1062,366,223,188,7 952,235,223,154,7
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\fbe71b3a296ec9b67fec3bbc8388713d.jpg 852,618,1037,642,3 1032,641,1083,603,3
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\fbfd019c7a329643ba7edddf184de45f.jpg 615,309,722,166,1
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\fc18c8aefa4bb984a760d4109f3cf046.jpg 543,406,682,203,0
+E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train\fc1ad307daf3f04d3ee870a58a274343.jpg 475,288,949,531,8 750,405,32,17,8
