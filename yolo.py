@@ -26,7 +26,7 @@ class YOLO(object):
         #   如果出现shape不匹配，同时要注意训练时的model_path和classes_path参数的修改
         #--------------------------------------------------------------------------#
         "model_path"        : 'model_data/yolov8_s.pth',
-        "classes_path"      : 'model_data/coco_classes.txt',
+        "classes_path"      : 'model_data/plane_classes.txt',
         #---------------------------------------------------------------------#
         #   输入图片的大小，必须为32的倍数。
         #---------------------------------------------------------------------#
@@ -39,7 +39,7 @@ class YOLO(object):
         #   l : 对应yolov8_l
         #   x : 对应yolov8_x
         #------------------------------------------------------#
-        "phi"               : 's',
+        "phi"               : 'n',
         #---------------------------------------------------------------------#
         #   只有得分大于置信度的预测框会被保留下来
         #---------------------------------------------------------------------#
@@ -415,4 +415,60 @@ class YOLO(object):
             f.write("%s %s %s %s %s %s\n" % (predicted_class, score[:6], str(int(left)), str(int(top)), str(int(right)),str(int(bottom))))
 
         f.close()
-        return 
+        return
+
+    def get_out_coords(self,image, class_names):
+        image_shape = np.array(np.shape(image)[0:2])
+        # ---------------------------------------------------------#
+        #   在这里将图像转换成RGB图像，防止灰度图在预测时报错。
+        #   代码仅仅支持RGB图像的预测，所有其它类型的图像都会转化成RGB
+        # ---------------------------------------------------------#
+        image = cvtColor(image)
+        # ---------------------------------------------------------#
+        #   给图像增加灰条，实现不失真的resize
+        #   也可以直接resize进行识别
+        # ---------------------------------------------------------#
+        image_data = resize_image(image, (self.input_shape[1], self.input_shape[0]), self.letterbox_image)
+        # ---------------------------------------------------------#
+        #   添加上batch_size维度
+        # ---------------------------------------------------------#
+        image_data = np.expand_dims(np.transpose(preprocess_input(np.array(image_data, dtype='float32')), (2, 0, 1)), 0)
+
+        with torch.no_grad():
+            images = torch.from_numpy(image_data)
+            if self.cuda:
+                images = images.cuda()
+            # ---------------------------------------------------------#
+            #   将图像输入网络当中进行预测！
+            # ---------------------------------------------------------#
+            outputs = self.net(images)
+            outputs = self.bbox_util.decode_box(outputs)
+            # ---------------------------------------------------------#
+            #   将预测框进行堆叠，然后进行非极大抑制
+            # ---------------------------------------------------------#
+            results = self.bbox_util.non_max_suppression(outputs, self.num_classes, self.input_shape,
+                                                         image_shape, self.letterbox_image, conf_thres=self.confidence,
+                                                         nms_thres=self.nms_iou)
+
+            if results[0] is None:
+                return
+
+            top_label = np.array(results[0][:, 5], dtype='int32')
+            top_conf = results[0][:, 4]
+            top_boxes = results[0][:, :4]
+
+        for i, c in list(enumerate(top_label)):
+            predicted_class = self.class_names[int(c)]
+            box = top_boxes[i]
+            score = str(top_conf[i])
+
+            top, left, bottom, right = box
+
+            return {
+                "ymin":bottom,
+                "xmin":left,
+                "ymax":top,
+                "xmax":right,
+                'conf':score,
+                'class_pred':predicted_class
+            }
