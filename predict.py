@@ -22,6 +22,7 @@ if __name__ == "__main__":
     #   'export_onnx'       表示将模型导出为onnx，需要pytorch1.7.1以上。
     #----------------------------------------------------------------------------------------------------------#
     mode = "predict"
+    # mode = "out_coods"
     #-------------------------------------------------------------------------#
     #   crop                指定了是否在单张图片预测后对目标进行截取
     #   count               指定了是否进行目标的计数
@@ -80,17 +81,21 @@ if __name__ == "__main__":
         4、如果想要在预测图上写额外的字，比如检测到的特定目标的数量，可以进入yolo.detect_image函数，在绘图部分对predicted_class进行判断，
         比如判断if predicted_class == 'car': 即可判断当前目标是否为车，然后记录数量即可。利用draw.text即可写字。
         '''
-        while True:
-            img = input('Input image filename:')
-            try:
-                image = Image.open(img)
-            except:
-                print('Open Error! Try again!')
-                continue
-            else:
-                r_image = yolo.detect_image(image, crop = crop, count=count)
-                r_image.show()
-
+        # while True:
+            # img = input('Input image filename:')
+            # try:
+            #     image = Image.open(img)
+            # except:
+            #     print('Open Error! Try again!')
+            #     continue
+            # else:
+        image = Image.open('E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train/0c1f9a40df584f13cf3b71dcb0968ec2.jpg')
+        r_image = yolo.detect_image(image, crop = crop, count=count)
+        r_image.show()
+    elif mode == 'out_coods':
+            image = Image.open('E:/Deep_Learning_DATABASE/object_detection/plane/dataset/train/0c1f9a40df584f13cf3b71dcb0968ec2.jpg')
+            out = yolo.get_out_coords(image)
+            print(out)
     elif mode == "video":
         capture = cv2.VideoCapture(video_path)
         if video_save_path!="":

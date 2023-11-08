@@ -25,7 +25,7 @@ class YOLO(object):
         #   验证集损失较低不代表mAP较高，仅代表该权值在验证集上泛化性能较好。
         #   如果出现shape不匹配，同时要注意训练时的model_path和classes_path参数的修改
         #--------------------------------------------------------------------------#
-        "model_path"        : 'model_data/yolov8_s.pth',
+        "model_path"        : 'model_data/ep010-loss10.141-val_loss11.054.pth',
         "classes_path"      : 'model_data/plane_classes.txt',
         #---------------------------------------------------------------------#
         #   输入图片的大小，必须为32的倍数。
@@ -103,6 +103,7 @@ class YOLO(object):
         
         device      = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
         self.net.load_state_dict(torch.load(self.model_path, map_location=device))
+        # self.net.load_state_dict(torch.load(self.model_path, map_location=device),strict=False)
         self.net    = self.net.fuse().eval()
         print('{} model, and classes loaded.'.format(self.model_path))
         if not onnx:
@@ -417,7 +418,7 @@ class YOLO(object):
         f.close()
         return
 
-    def get_out_coords(self,image, class_names):
+    def get_out_coords(self,image):
         image_shape = np.array(np.shape(image)[0:2])
         # ---------------------------------------------------------#
         #   在这里将图像转换成RGB图像，防止灰度图在预测时报错。
