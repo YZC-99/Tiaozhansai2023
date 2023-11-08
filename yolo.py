@@ -6,7 +6,7 @@ import numpy as np
 import torch
 import torch.nn as nn
 from PIL import ImageDraw, ImageFont
-
+# xxxxxxxxx
 from nets.yolo import YoloBody
 from utils.utils import (cvtColor, get_classes, preprocess_input,
                          resize_image, show_config)
